@@ -1,0 +1,16 @@
+.btn-bg {
+    background-image: linear-gradient(rgb(16, 16, 165), rgb(0, 9, 65));
+}
+
+.orange-text {
+    font-weight: 900;
+    color: rgb(232, 104, 0);
+}
+
+.gray-text {
+    color: rgb(0, 0, 31);
+}
+
+.img-property {
+    width: 100%;
+}
