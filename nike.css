@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(244, 244, 244);
+}
+
 .btn-bg {
     background-image: linear-gradient(rgb(16, 16, 165), rgb(0, 9, 65));
 }
@@ -13,4 +17,21 @@
 
 .img-property {
     width: 100%;
+}
+
+.width {
+    width: 80%;
+}
+
+.bg-smoke {
+    background-color: white;
+}
+
+.border-shoe {
+    background-color: rgb(244, 244, 244);
+    border-radius: 30px;
+}
+
+.h-bg {
+    background-image: linear-gradient(#db6927cb, rgba(242, 176, 114, 0.858));
 }
